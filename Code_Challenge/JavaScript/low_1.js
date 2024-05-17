@@ -1,5 +1,5 @@
 /*
-    난이도 : 하
+    난이도 : low1
     요구시간 : 1분 30초
 */
 
@@ -20,3 +20,4 @@ function challenge (str) {
         console.log(challenge(dimigo))
     } catch(error) { console.log('DIMIGO') }
 })()
+

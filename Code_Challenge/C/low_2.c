@@ -17,4 +17,6 @@ int main() {
     printf("%d", sum);
 }
 
+//low2
+
 //답 10

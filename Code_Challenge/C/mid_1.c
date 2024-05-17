@@ -25,4 +25,6 @@ int max(int a, int b){
         return b;
 }
 
+//mid1
+
 //답 75

@@ -31,5 +31,7 @@ int main(void)
     printf("%s\n", output_buf);
 }  
 
+//high1
+
 // 정답 0 0 2 2 4
 // 힌트 백준 2009년 고등부 2번

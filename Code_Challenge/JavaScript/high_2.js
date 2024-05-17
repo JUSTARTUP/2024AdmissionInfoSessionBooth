@@ -1,5 +1,5 @@
 /*
-    난이도 : 상
+    난이도 : high2
     요구시간 : 1분
 */
 function challenge (num) {
