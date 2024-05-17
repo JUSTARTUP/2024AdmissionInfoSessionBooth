@@ -5,7 +5,3 @@ implude = ulist[1:]
 escape = set(just)
 dimigo = set(implude)
 print(escape.intersection(dimigo))
-
-
-#2번문제-list
-
