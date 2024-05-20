@@ -1,6 +1,6 @@
 /*
     난이도 : high2
-    요구시간 : 1분
+    요구시간 : 1분 30초
 */
 function challenge (num) {
     if(num <= 0) {
